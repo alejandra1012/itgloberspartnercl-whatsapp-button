@@ -4,8 +4,8 @@ Componente botón de WhatsApp, mi primer componente custom
 
 <div align="center">
 
-![whatsapp-button](https://github.com/alejandra1012/itgloberspartnercl-whatsapp-button/master/assets/img/readme__buttom-whatsApp.png.png)
-![whatsapp-button](https://github.com/alejandra1012/itgloberspartnercl-whatsapp-button/master/assets/img/readme__redirec-whatsApp.png.png.png)
+![whatsapp-button](assets/img/readme__buttom-whatsApp.png.png)
+![whatsapp-button](assets/img/readme__redirec-whatsApp.png.png.png)
 
 
 </div>
